@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SmartLamp.iml" filepath="$PROJECT_DIR$/SmartLamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_/app_.iml" filepath="$PROJECT_DIR$/app_/app_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_/app_.iml" filepath="$PROJECT_DIR$/app_/app_.iml" />
     </modules>
   </component>
 </project>
